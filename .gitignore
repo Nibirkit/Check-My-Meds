@@ -1,0 +1,20 @@
+//
+//  .gitignore
+//  Check My Meds
+//
+//  Created by Nikita Korovin on 06.03.2025.
+//
+# Xcode
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.xcuserstate
+*.xcworkspace/
+!default.xcworkspace
+Pods/
